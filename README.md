@@ -5,7 +5,7 @@
 
 # 系統功能
 ## 1 開新遊戲
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/pychang-ai/W16_ChikawaCar/blob/main/1_newgame.png?raw=true" />
+<img src="https://github.com/pychang-ai/W16_ChikawaCar/blob/main/1_newgame.png?raw=true" />
 
 
 ## 2 存檔遊戲

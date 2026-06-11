@@ -11,4 +11,5 @@
 ## 2 存檔遊戲
 ## 3 天梯排行榜
 <img src="https://github.com/pychang-ai/W16_ChikawaCar/blob/main/3_leaderboard.png?raw=true"/>
+
 ## 作者資訊：

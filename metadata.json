@@ -1,0 +1,6 @@
+{
+  "name": "吉伊卡哇碰碰車",
+  "description": "吉伊卡哇碰碰車遊戲！開新遊戲、拾取蘋果加分、避開石頭扣分，並存檔紀錄登陸天梯排行！",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

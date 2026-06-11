@@ -6,7 +6,7 @@
 # 系統功能
 ## 1 開新遊戲
 <img src="https://github.com/pychang-ai/W16_ChikawaCar/blob/main/1_newgame.png?raw=true" />
-
+<img src="https://github.com/pychang-ai/W16_ChikawaCar/blob/main/1_1Playing.png?raw=true"/>
 
 ## 2 存檔遊戲
 ## 3 天梯排行榜
